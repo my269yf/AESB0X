@@ -8,7 +8,7 @@
 
 项目提供 `v1.0` 与 `v2.0` 两个版本，分别面向“单文件分发”与“批量处理”两类使用场景。
 
-![](I:\AESB0X\screenshots\screenshot.png)
+![软件截图](screenshots\screenshot.png)
 
 ## 版本说明
 
