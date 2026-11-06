@@ -1,5 +1,5 @@
 /* mksecret.c
- * 双击运行: 读 input.txt -> 输入署名 -> 输入密码 -> 生成 secret.exe -> 自动关闭
+ * 双击运行: 读取 input.txt -> 输入署名 -> 输入密码 -> 生成 secret.exe -> 自动关闭
  * 命令行  : mksecret [input.txt] [output.exe]
  * 编译    : tcc mksecret.c -o mksecret.exe   (或 gcc)
  * 源文件  : UTF-8 无 BOM 保存
